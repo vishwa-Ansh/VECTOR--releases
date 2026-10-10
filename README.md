@@ -4,15 +4,13 @@
 
 VECTOR-Ø is a modern Android application built to provide a clean, responsive, and optimized mobile experience.
 
-## Download
+## Download VECTOR-Ø
 
 ### Latest Android Release
 
-**[Download VECTOR-Ø](https://github.com/vishwa-Ansh/vector-releases/releases/latest/download/app-release.apk)**
+[**View Latest Release**](https://github.com/vishwa-Ansh/VECTOR--releases/releases/latest)
 
-Or visit the latest release:
-
-****[View Latest Release](https://github.com/vishwa-Ansh/vector-releases/releases/latest)
+[**Download for Android (APK)**](https://github.com/vishwa-Ansh/VECTOR--releases/releases/latest/download/app-release.apk)
 
 ## Current Release
 
